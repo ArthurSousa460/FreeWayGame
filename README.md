@@ -19,8 +19,5 @@ Jogo desenvolvido na Alura com apoio do programa Trilhas Inova, iniciativa do go
 
 ## <span>📽️</span> Video
 
-<video width="320" height="240" controls>
-  <source src="video/FreeWayGame-video.mp4" type="video/mp4">
-</video>
-
+[![FreeWay])](https://github.com/ArthurSousa460/FreeWayGame/blob/master/video/FreeWayGame-video.mp4)
 
